@@ -1,0 +1,2 @@
+# bicom
+newsletter_bigcommerce
